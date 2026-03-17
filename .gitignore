@@ -1,0 +1,14 @@
+node_modules
+.next
+.env
+pnpm-lock.yaml
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor
+.vscode
+.idea
+.DS_Store
